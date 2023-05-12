@@ -1,0 +1,4 @@
+{
+  "coc.preferences.formatOnSave": false,
+  "coc.preferences.formatOnSaveFiletypes.markdown": false
+}
